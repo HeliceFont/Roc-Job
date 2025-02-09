@@ -43,15 +43,11 @@ cd roc-job
 
 Instalar dependencias:
 
-npm install
-# o
-yarn install
+npm install or yarn install
 
 Ejecutar la aplicación en modo desarrollo:
 
-npm run dev
-# o
-yarn dev
+npm run dev or yarn dev
 
 Abrir en el navegador:
 La aplicación estará disponible en http://localhost:3000.
