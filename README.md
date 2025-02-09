@@ -1,5 +1,4 @@
-<div class="container">
-        <h1>Roc Job</h1>
+ <h1>Roc Job</h1>
         <p><strong>Roc Job</strong> es una web corporativa con una landing page SPA (Single Page Application) desarrollada con React y Vite. Utiliza CSS, JavaScript, JSX, Bootstrap y Framer Motion para proporcionar una experiencia de usuario moderna, responsiva y visualmente atractiva.</p>
         
         <h2>✨ Características Principales</h2>
@@ -70,4 +69,3 @@ cd roc-job</pre>
             <li><strong>Correo electrónico:</strong> <a href="mailto:contacto@rocjob.com">contacto@rocjob.com</a></li>
             <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/company/roc-job">Perfil de empresa</a></li>
         </ul>
-    </div>
