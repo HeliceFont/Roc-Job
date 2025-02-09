@@ -1,18 +1,18 @@
 import logo from "../assets/image/Recurso11.png"
+import './header.css'
 
 export const Header = () => {
     return (
-        <div>
-            <header>
-                
-                    <img src={logo} alt="logo" />
-                    <nav>
-                    <ul>
-                        <li>Inicio</li>
-                        <li>nosotros</li>
-                        <li>¿Qué hacemos</li>
-                        <li>Cuenta con Nosotros</li>
-                        <li>Contacto</li>
+        <div className="header-container">
+            <header className="header">
+                <img src={logo} alt="logo Roc Job" className="logo" />
+                <nav className="nav">
+                    <ul className="nav-list">
+                        <li className="nav-item">Inicio</li>
+                        <li className="nav-item">Nosotros</li>
+                        <li className="nav-item">¿Qué hacemos?</li>
+                        <li className="nav-item">Cuenta con Nosotros</li>
+                        <li className="nav-item">Contacto</li>
                     </ul>
                 </nav>
             </header>
